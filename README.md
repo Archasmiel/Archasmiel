@@ -3,7 +3,7 @@ I'm Ukrainian 19 year old KPI student.<br />
 Currently I'm studing on 3rd course of Electricity Faculty(micro- and nanoelectronics).  
 
 
-### 🏆 My languages:
+### 🏆 Coding with:
 - **Python**<br /> 
 [2 years of active usage]<br /> 
 *(my main coding language now)*
