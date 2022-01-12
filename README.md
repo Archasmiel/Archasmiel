@@ -1,4 +1,4 @@
-### /play sax ✨ Hello dear friend, my name is Archasmiel<br /> 
+### ✨ Hello dear friend, my name is Archasmiel<br /> 
 I'm Ukrainian 19 year old KPI student.<br /> 
 Currently I'm studing on 3rd course of Electricity Faculty(micro- and nanoelectronics).  
 
