@@ -26,7 +26,7 @@ Currently I'm studing at Electricity Faculty on 3rd course(micro- and nanoelectr
 
 
 <a href="https://github.com/Chasmity">
-  <img align="center"  src="https://github-readme-stats.vercel.app/api?username=Chasmity&theme=github_dark&bg_color=0d1117&show_icons=true&text_color=d4d4d4&hide_border=true&icon_color=8b949e&title_color=58a6ff" />
+  <img align="center"  src="https://github-readme-stats.vercel.app/api?username=Archasmiel&theme=github_dark&bg_color=0d1117&show_icons=true&text_color=d4d4d4&hide_border=true&icon_color=8b949e&title_color=58a6ff" />
 </a>
 
 <!-- **KariSpace/KariSpace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. Here are some ideas to get you started: -->
@@ -42,7 +42,7 @@ Currently I'm studing at Electricity Faculty on 3rd course(micro- and nanoelectr
 
 
 <a href="https://github.com/Chasmity">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chasmity&theme=tokyonight&show_icons=true&hide_border=true&icon_color=909198&title_color=58a6ff&text_color=d4d4d4&bg_color=0d1117&layout=compact&hide=css" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Archasmiel&theme=tokyonight&show_icons=true&hide_border=true&icon_color=909198&title_color=58a6ff&text_color=d4d4d4&bg_color=0d1117&layout=compact&hide=css" />
 </a>
 
 
