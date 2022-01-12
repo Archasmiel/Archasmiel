@@ -1,6 +1,7 @@
 ### ✨ Hello dear friend, my name is Archasmiel<br /> 
 I'm Ukrainian 19 year old KPI student.<br /> 
-Currently I'm studing on 3rd course of Electricity Faculty(micro- and nanoelectronics).  
+Currently I'm studing at Electricity Faculty on 3rd course(micro- and nanoelectronics specialization).<br />
+
 
 
 ### 🏆 Coding with:
@@ -36,7 +37,7 @@ Currently I'm studing on 3rd course of Electricity Faculty(micro- and nanoelectr
 - 📫 My contacts: 
 - - Telegram: https://t.me/archasmiel
 - 😄  Pronouns: Arch - like archangel, chasmiel - from my first nickname Chasmity meaning ceaseless void
-- ⚡  Fun fact: Always tired and need motivation
+- ⚡  Fun fact: Always tired and need motivation. Memory like gold fish.
 
 
 
