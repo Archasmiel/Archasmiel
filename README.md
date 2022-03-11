@@ -6,23 +6,23 @@ Currently I'm studing at Electricity Faculty on 3rd course(micro- and nanoelectr
 
 ### 🏆 Coding with:
 - **Python**<br /> 
-[2 years of active usage]<br /> 
-*(my main coding language now)*
-- **Java**<br /> 
-[1.5 years of active usage]<br /> 
-*(java core + collections)*
+[2 years of learning]<br /> 
+*(desktop apps on Qt5, Discord bots, university projects)*
 - **C++**<br /> 
-[1 year of active usage]<br /> 
-*(using only for heavy and graph algorithms)*
+[1 year of learning]<br /> 
+*(using only for heavy and graph algorithms, SFML and university projects)*
+- **Java**<br /> 
+[1 year of learning]<br /> 
+*(java core + collections, basic development of Minecraft mods)*
 - **C#**<br /> 
-[2 months of active usage]<br /> 
-*(developed 3D game in Unity, basic knowledge)*
-- **HTML/CSS**<br /> 
-[rarely using for sites]<br /> 
-*(basic knowledge)*
+[2 months of learning]<br /> 
+*(basic knowledge, created 3D game in Unity)*
+- **HTML/CSS/JavaScript**<br /> 
+[rarely using for creating webpages]<br /> 
+*(basic knowledge, coded webpages for school code competitions and Unity 3D game)*
 - **Pascal** and **Delphi 7**<br /> 
 [only studing]<br /> 
-*(literally I started from this)*
+*(my first school programming languages)*
 
 
 <a href="https://github.com/Chasmity">
@@ -32,12 +32,11 @@ Currently I'm studing at Electricity Faculty on 3rd course(micro- and nanoelectr
 <!-- **KariSpace/KariSpace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. Here are some ideas to get you started: -->
 <!--- - 🔭  I’m currently working on https://github.com/KariSpace/dark-chome-extension -->
 - 🌱 I’m currently learning Java for making minecraft mods and other stuff.
-- 👯 I’m looking to collaborate on some intersting projects to improve my teamwork skills. <!-- - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about mathematical solutions of program ***poggers*** 
+- 👯 I’m looking to collaborate on some intersting projects to improve my team work skills. <!-- - 🤔 I’m looking for help with ... -->
+- 💬 Ask me about mathematical solutions of program 
 - 📫 My contacts: 
 - - Telegram: https://t.me/archasmiel
-- 😄  Pronouns: Arch - like archangel, chasmiel - from my first nickname Chasmity meaning ceaseless void
-- ⚡  Fun fact: Always tired and need motivation. Memory like gold fish.
+- ⚡  Fun fact: I like drawing
 
 
 
