@@ -25,9 +25,7 @@ Currently I'm studing at Electricity Faculty on 3rd course(micro- and nanoelectr
 *(my first school programming languages)*
 
 
-<a href="https://github.com/Archasmiel">
-  <img align="center"  src="https://github-readme-stats.vercel.app/api?username=Archasmiel&theme=github_dark&bg_color=0d1117&show_icons=true&text_color=d4d4d4&hide_border=true&icon_color=8b949e&title_color=58a6ff" />
-</a>
+ [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Archasmiel)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - 🌱 I’m currently learning Java for making minecraft mods and other stuff.
