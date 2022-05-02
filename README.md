@@ -1,5 +1,5 @@
-### ✨ Hello friend, my name is Sergey<br> 
-I'm Ukrainian 20 year old National Technical University of Ukraine “Igor Sikorsky Kyiv Polytechnic Institute” student.<br> 
+### ✨ Hello dear visitor, my name is Sergey<br> 
+I'm 20 year old student of National Technical University of Ukraine “Igor Sikorsky Kyiv Polytechnic Institute”.<br> 
 Currently I'm studing on electronics faculty.<br>
 
 
