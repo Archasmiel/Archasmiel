@@ -1,5 +1,5 @@
 ### ✨ Hello friend, my name is Sergey<br> 
-I'm Ukrainian 19 year old KPI student.<br> 
+I'm Ukrainian 20 year old National Technical University of Ukraine “Igor Sikorsky Kyiv Polytechnic Institute” student.<br> 
 Currently I'm studing at Electronics Faculty on 3rd course.<br>
 
 
