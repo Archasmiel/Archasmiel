@@ -28,10 +28,10 @@ Currently I'm studing on electronics faculty.<br>
  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Archasmiel)](https://github.com/anuraghazra/github-readme-stats)
 
 
-- 🌱 I’m currently started learning neuron networks and electron.js desktop apps.
-- 👯 I’m looking to collaborate on some intersting projects to improve my team work skills. 
+- 🌱 I’m currently started JavaFX applications.
 - 💬 Ask me about mathematical solutions of program 
+- ⚡ Fun fact: Do geese see God?
 - 📫 My contacts: 
 - - Telegram: https://t.me/archasmiel
-- - Linkedin: https://www.linkedin.com/in/сергей-ремез-86541b234/
-- ⚡ Fun fact: Do geese see God?
+- - Discord: Archasmiel#0173
+- - Linkedin: https://www.linkedin.com/in/sergey-remez-86541b234/
