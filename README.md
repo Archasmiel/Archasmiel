@@ -25,11 +25,12 @@ Currently I'm studing on electronics faculty.<br>
 *(my first school programming languages)*
 
 
- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Archasmiel)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Archasmiel&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats) <br><br>
+[![Archasmiel codewars](https://www.codewars.com/users/Archasmiel/badges/large)](https://www.codewars.com/users/Archasmiel)
 
 
-- 🌱 I’m currently started JavaFX applications.
-- 💬 Ask me about mathematical solutions of program 
+- 🌱 I’m currently started learning JDA (Java Discord API).
+- 💬 Ask me about mathematical solutions of program.
 - ⚡ Fun fact: Do geese see God?
 - 📫 My contacts: 
 - - Telegram: https://t.me/archasmiel
