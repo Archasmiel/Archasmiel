@@ -5,12 +5,12 @@ Currently I'm studing on electronics faculty.<br>
 
 
 ### 🏆 Coding with:
+- **Java**<br> 
+[2.5 years of learning]<br> 
+*(Java Core + Сollections + OOP, intermediate development of Minecraft mods)*
 - **Python**<br/> 
 [2 years of learning]<br> 
 *(desktop apps (pyqt5), excel tables work (openpyxl), Discord bots (discord.py, TinyDB, yt-dlp), Telegram bots (telebot), university projects (matplotlib, signals), simple games and physics (pygame))*
-- **Java**<br> 
-[2 years of learning]<br> 
-*(java core+collections+OOP, intermediate development of Minecraft mods)*
 - **C++**<br> 
 [1 year of learning]<br> 
 *(using only for heavy tasks, graph algorithms, robot automatization projects, rarely SFML visual projects and university projects)*
