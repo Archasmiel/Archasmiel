@@ -7,29 +7,29 @@ Currently I'm studing on electronics faculty.<br>
 ### 🏆 Coding with:
 - **Java**<br> 
 [2.5 years of learning]<br> 
-*(Java Core + Сollections + OOP, intermediate development of Minecraft mods)*
+*(Сollections/OOP/Spring/PostgreSQL, Minecraft mods development, bots for Telegram/Discord)*
 - **Python**<br/> 
 [2 years of learning]<br> 
 *(desktop apps (pyqt5), excel tables work (openpyxl), Discord bots (discord.py, TinyDB, yt-dlp), Telegram bots (telebot), university projects (matplotlib, signals), simple games and physics (pygame))*
 - **C++**<br> 
 [1 year of learning]<br> 
-*(using only for heavy tasks, graph algorithms, robot automatization projects, rarely SFML visual projects and university projects)*
+*(graph algorithms, robot automatization projects, SFML projects and calculation projects)*
 - **C#**<br> 
 [2 months of learning]<br> 
 *(basic knowledge, 3D game in Unity)*
 - **HTML/CSS/JavaScript**<br> 
 [using for webpages]<br> 
-*(basic knowledge, coded web pages for school competitions and Unity 3D game)*
+*(basic knowledge, web pages for school competitions and Unity 3D game page)*
 - **Pascal** and **Delphi 7**<br> 
 [only studing]<br> 
-*(my first school programming languages)*
+*(first programming languages)*
 
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Archasmiel&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats) <br><br>
 [![Archasmiel codewars](https://www.codewars.com/users/Archasmiel/badges/large)](https://www.codewars.com/users/Archasmiel)
 
 
-- 🌱 I’m currently started learning JDA (Java Discord API).
+- 🌱 I’m currently trying to make big Minecraft modification.
 - 💬 Ask me about mathematical solutions of program.
 - ⚡ Fun fact: Do geese see God?
 - 📫 My contacts: 
