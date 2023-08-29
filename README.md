@@ -1,12 +1,12 @@
-### ✨ Hello dear visitor, my name is Sergey<br> 
-I'm 20 year old student of National Technical University of Ukraine “Igor Sikorsky Kyiv Polytechnic Institute”.<br> 
-Currently I'm studing on electronics faculty.<br>
+### ✨ Hi visitor, my name is Serhii<br> 
+I am 21 year old programmer.<br>
+Finished National Technical University of Ukraine “Igor Sikorsky Kyiv Polytechnic Institute” with "Micro- and Nanoelectronics" bachelors degree.<br> 
 
 
 
 ### 🏆 Coding with:
 - **Java**<br> 
-[2.5 years of learning]<br> 
+[3 years of learning]<br> 
 *(Сollections/OOP/Spring/PostgreSQL, Minecraft mods development, bots for Telegram/Discord)*
 - **Python**<br/> 
 [2 years of learning]<br> 
