@@ -6,20 +6,20 @@ Finished National Technical University of Ukraine “Igor Sikorsky Kyiv Polytech
 
 ### 🏆 Coding with:
 - **Java**<br> 
-[3 years of learning]<br> 
-*(Сollections/OOP/Spring/PostgreSQL, Minecraft mods development, bots for Telegram/Discord)*
+[3 years]<br> 
+*(Сollections/OOP/Spring/PostgreSQL (as intern), Minecraft mods development, bots for Telegram/Discord, Arduino projects)*
 - **Python**<br/> 
-[2 years of learning]<br> 
-*(desktop apps (pyqt5), excel tables work (openpyxl), Discord bots (discord.py, TinyDB, yt-dlp), Telegram bots (telebot), university projects (matplotlib, signals), simple games and physics (pygame))*
+[2 years]<br> 
+*(QT apps (pyqt5), Excel (openpyxl), Discord bots (discord.py,TinyDB,yt-dlp), Telegram (telebot), university projects (matplotlib, signals, pygame), automotive and NN (mediapipe, cv2, automotive))*
 - **C++**<br> 
-[1 year of learning]<br> 
-*(graph algorithms, robot automatization projects, SFML projects and calculation projects)*
+[1 year]<br> 
+*(graph algorithms, robot automatization projects, SFML projects, Arduino+ESP32 dev)*
 - **C#**<br> 
-[2 months of learning]<br> 
-*(basic knowledge, 3D game in Unity)*
+[6 months of learning]<br> 
+*(2D, 3D game development in Unity, teaching kids)*
 - **HTML/CSS/JavaScript**<br> 
-[using for webpages]<br> 
-*(basic knowledge, web pages for school competitions and Unity 3D game page)*
+[2 months learning]<br> 
+*(web pages for school competitions, online booking, teaching kids)*
 - **Pascal** and **Delphi 7**<br> 
 [only studing]<br> 
 *(first programming languages)*
