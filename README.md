@@ -30,7 +30,3 @@ Finished National Technical University of Ukraine “Igor Sikorsky Kyiv Polytech
 - 🌱 I’m currently trying to learn C++.
 - 💬 Want some explanations from a teacher?
 - ⚡ Fun fact: I like spagetti.
-- 📫 My contacts: 
-- - Telegram: https://t.me/archasmiel
-- - Discord: Archasmiel#0173
-- - Linkedin: https://www.linkedin.com/in/sergey-remez-86541b234/
