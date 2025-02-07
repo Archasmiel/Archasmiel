@@ -19,8 +19,6 @@ Finished National Technical University of Ukraine “Igor Sikorsky Kyiv Polytech
 - **HTML/CSS/JavaScript**<br> 
 [2 months learning]<br> 
 *(online booking, teacher work)*
-- **Pascal** and **Delphi 7**<br> 
-[only studing]<br> 
 
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Archasmiel&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats) <br><br>
