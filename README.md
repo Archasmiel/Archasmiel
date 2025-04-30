@@ -1,4 +1,4 @@
-### ✨ Hi visitor, my name is Serhii<br> 
+### ✨ Hi dear visitor, my name is Serhii<br> 
 I'm Ukrainian teacher of electronics, maths and physics. Finished Kyiv Polytechnic Institute with Bachelor, Taras Shevchenko National University of Kyiv as Magister.<br>
 
 
@@ -13,16 +13,16 @@ I'm Ukrainian teacher of electronics, maths and physics. Finished Kyiv Polytechn
   - pyqt5, openpyxl, discord.py, tinydb, telebot, matplotlib  
   - signals, pygame, mediapipe, opencv (cv2), automotive applications  
 
-- **C++** *(2 years)*  
+- **C++** *(2.5 years)*  
   - Graph theory, Robotics automation, SFML  
   - Arduino, ESP32 programming  
 
-- **C#** *(1.5 years)*  
+- **C#** *(2 years)*  
   - 2D & 3D game development in Unity  
 
 - **Web Development** *(1 year)*  
   - HTML, CSS, JavaScript  
-  - Online booking systems, educational tools  
+  - Online booking system, educational tools  
 
 
 
