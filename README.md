@@ -1,7 +1,7 @@
 # ✨ Hi there! I’m Serhii (Archasmiel)
 
 Ukrainian teacher of electronics, maths & physics • Kyiv Polytechnic ’Bachelor’, Taras Shevchenko University ’Magister’  
-⚡ Love weird loopo.
+⚡ A true jack of all trades, master of none.
 
 ---
 
